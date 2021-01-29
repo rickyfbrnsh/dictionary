@@ -1,0 +1,21 @@
+{
+    "name": "rickyfbrnsh/dictionary",
+    "description": "dictionary to Sunda and Jawa",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rickyfbrnsh",
+            "email": "rickyfbrnsh28@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ricky\\Dictionary\\": "/"
+        },
+        "files": [
+            "helpers.php"
+        ]
+    },
+    "require": {}
+}
